@@ -21,6 +21,27 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
+
+
+    public function click1()
+    {
+        echo "<p>Panel 1 content goes here.</p>";
+    }
+
+    public function click2()
+    {
+        echo "<p>Panel 2 content goes here.</p>";
+    }
+
+    public function click3()
+    {
+        echo "<p>Panel 3 content goes here.</p>";
+    }
+
+    public function click4()
+    {
+        echo "<p>Panel 4 content goes here.</p>";
+    }
 }
 
 /* End of file welcome.php */
