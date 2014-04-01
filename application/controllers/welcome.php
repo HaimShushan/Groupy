@@ -25,7 +25,7 @@ class Welcome extends CI_Controller {
 
     public function click1()
     {
-        echo "<p>Panel 1 content goes here.</p>";
+        echo "<p>Panel 1 content goes here1.</p>";
     }
 
     public function click2()
