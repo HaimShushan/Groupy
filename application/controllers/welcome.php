@@ -30,7 +30,7 @@ class Welcome extends CI_Controller {
 
     public function click2()
     {
-        echo "<p>Panel 2 content goes here.</p>";
+        echo "<p>Panel 2 content goes here2.</p>";
     }
 
     public function click3()
